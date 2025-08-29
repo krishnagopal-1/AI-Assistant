@@ -1,6 +1,6 @@
 //Add your API KEY first...
 
-const API_KEY = "YOUR_GEMINI_API_KEY_HERE";
+const API_KEY = "AIzaSyDyJufCMeeE42kANXN2tsAfbruMXJ01yA4";
 const API_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=" + API_KEY;
 
 const headingContainer = document.querySelector(".container");
